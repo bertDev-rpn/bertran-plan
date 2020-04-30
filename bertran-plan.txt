@@ -4,5 +4,3 @@ bertran plan
 - Full Stack
 OOP Java
 Web Punguan
-App Punguan
-
